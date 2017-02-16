@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<nav>
+	<UL>
+		<LI><A HREF="Lab 1.html"> Home </A></LI>
+		<LI><A HREF="College.html"> College </A></LI>
+		<LI><A HREF="SigEp.html"> SigEp </A></LI>
+		<LI><A HREF="Live Music.html"> Live Music </A></LI>
+		<LI><A HREF="Sports.html"> Sports </A></LI>
+	</UL>	
+	</nav>
+	
+	<IMG SRC="portrait.jpg" object align="right"></object>
+	
+	<head>
+		<title>Nicholas J. M. W. Lunn </title>
+		<link href="styles.css" rel="stylesheet">
+	</head>
+	
+	<body>
+	
+	<H1> Nicholas J. M. W. Lunn </H1>
+	<p><i> B.S. Accounting </i></p>
+	<p><i> B.S. Kinesiology & Physical Education- Exercise Science </i> </p>
+	<nav>
+	<UL>
+		<LI><h3> <a href="https://www.linkedin.com/nhome/?trk="> LinkedIn</a></h3></LI>
+		<LI><h3> <a href="http://runningwithgsus.blogspot.com/"> Blogspot</a></h3></LI>
+	</UL>
+	</nav>
+	
+	<P> "Those who are well have no need of a physician, but those who are sick."
+		This world is broken and we're focused on the wrong people and issues.
+		People are becoming disconnected, desensitized, and entitled, and no one 
+		even notices or cares.</P>
+	
+	</body>
+</html>
