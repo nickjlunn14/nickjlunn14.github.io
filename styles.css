@@ -38,6 +38,14 @@ img {
 	border:1px solid #021a40;
 }
 
+table, th, td {
+	border: 2px solid black;
+	background: white;
+	font-weight: bold;
+	border-collapse: collapse;
+	padding: 5px;
+}
+
 #Cover {
 	border: 2px solid black;
 }
