@@ -3,6 +3,8 @@ body { background: lightyellow;
 	font-size: 12pt; 
 	font-family: 'Garamond', sans-serif;
 	line-height: 150%;
+	text-align: justify;
+	padding: 5px;
 }
 
 h1 { font-size: 250%;
@@ -105,4 +107,10 @@ table, th, td {
 	float: left;
 	display: inline-block;
 	height: 100%;
+}
+
+#leftcolumn3 {
+	float:left;
+	display: inline-block;
+	width: auto;
 }
