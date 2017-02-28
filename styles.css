@@ -115,3 +115,9 @@ table, th, td {
 	display: inline-block;
 	width: auto;
 }
+
+#element-align {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
