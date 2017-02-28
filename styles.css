@@ -48,6 +48,8 @@ table, th, td {
 
 #Cover {
 	border: 2px solid black;
+	height: auto;
+	overflow: auto;
 }
 
 #maincontainer2 {
@@ -90,4 +92,17 @@ table, th, td {
 	width: 650px;
 	height: 100%;
 	text-align: right;
+}
+
+#LeftCover {
+	float:left;
+	display: inline-block;
+	width: 200px;
+	height: 100%;
+}
+
+#RightCover {
+	float: left;
+	display: inline-block;
+	height: 100%;
 }
